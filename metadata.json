@@ -1,0 +1,8 @@
+{
+  "name": "AgroVault - Agrochemical Retail & Shop Management",
+  "description": "Professional agrochemical retail platform with batch inventory, chemical hazard compliance, double-entry bookkeeping, secure multi-channel payments, and live customer order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
